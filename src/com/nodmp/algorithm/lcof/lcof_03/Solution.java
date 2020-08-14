@@ -1,4 +1,4 @@
-package com.nodmp.algorithm.lcof_03;
+package com.nodmp.algorithm.lcof.lcof_03;
 
 import java.util.HashSet;
 
