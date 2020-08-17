@@ -1,4 +1,4 @@
-package com.nodmp.algorithm.leetcode.two_sum;
+package com.nodmp.algorithm.leetcode.lc_1;
 
 import java.util.Arrays;
 import java.util.HashMap;
