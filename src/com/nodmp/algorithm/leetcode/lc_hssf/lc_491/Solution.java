@@ -1,10 +1,8 @@
-package com.nodmp.algorithm.leetcode.lc_46_51_679.lc_491;
+package com.nodmp.algorithm.leetcode.lc_hssf.lc_491;
 
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.function.ToIntFunction;
 
 public class Solution {
     //    输入: [4, 6, 7, 7]

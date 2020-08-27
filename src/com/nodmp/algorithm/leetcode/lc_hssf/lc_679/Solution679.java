@@ -1,4 +1,4 @@
-package com.nodmp.algorithm.leetcode.lc_46_51_679;
+package com.nodmp.algorithm.leetcode.lc_hssf.lc_679;
 
 public class Solution679 {
     public boolean judgePoint24(int[] nums) {

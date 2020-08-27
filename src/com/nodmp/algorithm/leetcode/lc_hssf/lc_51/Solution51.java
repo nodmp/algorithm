@@ -1,4 +1,4 @@
-package com.nodmp.algorithm.leetcode.lc_46_51_679;
+package com.nodmp.algorithm.leetcode.lc_hssf.lc_51;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
